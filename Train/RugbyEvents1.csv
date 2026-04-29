@@ -1,0 +1,4 @@
+Event,Frame_Start,Frame_End,Team
+KickRestart,60,150,1
+KickRestart,190,280,2
+KickRestart,320,410,2
